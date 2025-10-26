@@ -1,5 +1,0 @@
-/home/artur/arch/calculator/build/CMakeFiles/calculator.dir
-/home/artur/arch/calculator/build/CMakeFiles/calc.dir
-/home/artur/arch/calculator/build/CMakeFiles/check.dir
-/home/artur/arch/calculator/build/CMakeFiles/edit_cache.dir
-/home/artur/arch/calculator/build/CMakeFiles/rebuild_cache.dir
