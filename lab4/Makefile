@@ -1,6 +1,5 @@
 obj-m := hello.o
 
-# Куди дивитися на джерела ядра (можеш переписати у зовнішні змінні)
 KDIR ?= $(HOME)/repos/linux-stable
 PWD := $(shell pwd)
 
